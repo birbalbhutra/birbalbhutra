@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a computer science engineer from IIEST Shibpur and looking for software development jobs in product based companies. I have a keen interest in web developmet and competitive programming. When I am not doing this, you can find me playing video games and watching cricket.
 
-- 🔭 I’m currently working on ReactJS, Nodejs, ExpressJs.
+- 🔭 I’m currently working on Java, Spring Boot.
 - 🍔 Feel free to browse my github profile for projects and stuff I am currently developing.
 - ⚡ Available for Freelance projects/fulltime opportunities.
 
